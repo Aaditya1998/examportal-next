@@ -112,7 +112,7 @@ export default function AuthenticationPage() {
                   <Button className="w-full">Login</Button>
                   <p className="mt-2 text-xs text-center text-gray-700">
                     {" "}
-                    Don't have an account?{" "}
+                    Don&apos;t have an account?{" "}
                     <span className=" text-blue-600 hover:underline">
                       Sign up
                     </span>
